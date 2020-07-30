@@ -1,3 +1,14 @@
+# Radio-T #706, 2020-06-13
+
+https://radio-t.com/p/2020/06/13/podcast-706/
+
+## PyInfra
+
+https://pyinfra.com/
+https://github.com/Fizzadar/pyinfra
+https://www.pythonpodcast.com/pyinfra-configuration-management-episode-270/
+
+
 # Radio-T #711, 2020-07-18
 
 https://radio-t.com/p/2020/07/18/podcast-711/
