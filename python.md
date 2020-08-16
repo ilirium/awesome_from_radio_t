@@ -23,4 +23,14 @@ PyOxidizer is a utility for producing binaries that embed Python.
 The over-arching goal of PyOxidizer is to make complex packaging and
 distribution problems simple so application maintainers can focus on
 building applications instead of toiling with build systems and
-packaging tools.
+packaging tools.# Radio-T #715, 2020-08-15
+
+https://radio-t.com/p/2020/08/15/podcast-715/
+
+## orjson
+
+https://github.com/ijl/orjson
+
+orjson is a fast, correct JSON library for Python. It benchmarks as the fastest Python library
+for JSON and is more correct than the standard json library or other third-party libraries.
+It serializes dataclass, datetime, numpy, and UUID instances natively.
