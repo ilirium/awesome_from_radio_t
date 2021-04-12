@@ -120,3 +120,29 @@ https://github.com/ijl/orjson
 orjson is a fast, correct JSON library for Python. It benchmarks as the fastest Python library
 for JSON and is more correct than the standard json library or other third-party libraries.
 It serializes dataclass, datetime, numpy, and UUID instances natively.
+
+
+# Radio-T #749, 2021-04-10
+
+https://radio-t.com/p/2021/04/10/podcast-749/
+
+## Poetry
+
+https://python-poetry.org/
+
+Poetry is a tool for dependency management and packaging in Python.
+It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
+
+## Plumbum
+
+https://plumbum.readthedocs.io/
+
+Ever wished the compactness of shell scripts be put into a real programming language?
+Say hello to Plumbum Shell Combinators. Plumbum (Latin for lead, which was used to create pipes back in the day)
+is a small yet feature-rich library for shell script-like programs in Python. The motto of the library is
+“Never write shell scripts again”, and thus it attempts to mimic the shell syntax (shell combinators)
+where it makes sense, while keeping it all Pythonic and cross-platform.
+
+Apart from shell-like syntax and handy shortcuts, the library provides local and remote command execution (over SSH),
+local and remote file-system paths, easy working-directory and environment manipulation, quick access to ANSI colors,
+and a programmatic Command-Line Interface (CLI) application toolkit. Now let’s see some code!
